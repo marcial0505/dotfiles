@@ -1,0 +1,4 @@
+#Triggers file version 1.0
+-all -nocase -regexp 'wired' -replace 'sh*t' 
+-all -nocase -regexp 'shit' -replace 'sh*t' 
+-all -nocase -regexp 'wired' -replace 'wired' 
