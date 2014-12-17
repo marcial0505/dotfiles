@@ -1,0 +1,449 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.0pre2
+
+
+[0]
+name=Anja
+email=av3len@hotmail.com
+
+[1]
+name=An Jacobs
+mobile=+32488355334
+
+[2]
+name=Audrey van der Vleuten
+email=au3tje1976@yahoo.com
+mobile=+31624308878
+url=http://au3tje1976.hyves.nl/
+
+[3]
+name=Beate Konieczna
+email=s-mami@live.nl
+address=Peerdendries 23
+city=Brunssum
+zip=6442 AS
+mobile=+31613727642
+
+[4]
+name=Bianca Lennhaarts
+email=biancalennhaarts@hotmail.com
+workphone=+31455319307
+mobile=+31653190671
+url=http://bianca1410.hyves.nl
+
+[5]
+name=Bonny Pilouw
+address=Nieuwstraat 137
+city=Hoensbroek
+mobile=+31625545506
+
+[6]
+name=Brenda
+email=b.r.e.n.d.a1978@hotmail.com
+mobile=+31621468199
+
+[7]
+name=Cherish Hoost
+email=hjvjk2011@hotmail.com
+mobile=+31648508365
+
+[8]
+name=Cis Swinkels
+email=cistah@gmail.com
+phone=+31475691382
+mobile=+31641933280
+url=http://cistah.hyves.nl/?ref=sr
+
+[9]
+name=Corrine van den Heuvel
+email=corrinevandenheuvel@hotmail.com
+mobile=+31653935064
+
+[10]
+name=Curina Janssen
+email=curina80@hotmail.com
+mobile=+31612753477
+
+[11]
+name=Cynthia Noordermeer
+email=cynthnoord@gmail.com
+address=Eerste van Reenenstraat 28
+city=Honselersdijk
+mobile=+31631786295
+
+[12]
+name=Deborah Rakim
+email=dmcarey20@hotmail.com
+mobile=+31634322223
+
+[13]
+name=Dees Aalders
+email=dees.styling@hotmail.com
+address=Van Hoornstraat 13
+city=Hilversum
+zip=1215 GJ
+phone=+316356216645
+mobile=+31623552895
+
+[14]
+name=Esther
+mobile=+31651220394
+
+[15]
+name=Esther Damen
+email=esther.damen@hotmail.com
+address=Avrancheslaan 20
+city=Eindhoven
+zip=5627 NT
+mobile=+31618765887
+
+[16]
+name=Francis Ploegman
+email=mistimabo6@hotmail.com
+mobile=+31614298479
+
+[17]
+name=Fransien Meijer
+email=fransien.meijer@gmail.com,frunnie20@hotmail.com
+mobile=+31645868254
+
+[18]
+name=Giacinta Helstone
+email=romanticgyal1@live.nl
+mobile=+31616979815
+
+[19]
+name=Inge de Ruiter
+email=ruiter_de_inge@hotmail.com
+mobile=+31624455100
+
+[20]
+name=Inge Poell
+email=inge_poell@hotmail.com
+address=Porseleinvlinder 15
+city=Enschede
+zip=7534 MH
+phone=+31619989614
+mobile=+31646241130
+url=http://ingepoell.hyves.nl
+
+[21]
+name=Ingrid Verstappen
+mobile=+31651530702
+
+[22]
+name=Jerry Titalay
+mobile=+31627077464
+
+[23]
+name=Jolanda Schuitemaker
+email=jo.schuitemaker@hotmail.com
+address=Breedstraat 139
+city=Enkhuizen
+zip=1601 KC
+mobile=+31653787773
+
+[24]
+name=José Oudman
+email=senseocrema@hotmail.com
+address=Churchillstraat 25
+city=Brunssum
+country=Netherlands
+phone=+31458886794
+mobile=+31648153306
+
+[25]
+name=Joyce+Leo
+email=swinkels169@home.nl
+address=Kapellerlaan 169
+city=Roermond
+zip=6045AC
+phone=+31475331146
+
+[26]
+name=Joyce Onstenk
+email=j_onstenk@hotmail.com
+address=Boschdijk 248 D
+zip=5612 HJ
+mobile=+31611789229
+notes=13/11/1983 verjaardag
+
+[27]
+name=Kelly van Gaal
+email=kelll@live.nl
+address=Vorstershoekstraat 32
+city=Oss
+mobile=+31625537550
+
+[28]
+name=Kim Hennissen
+email=kimhennissen@gmail.com
+mobile=+31612689118
+
+[29]
+name=Laila Hammouchi
+email=miss4amor@hotmail.com
+mobile=+31614645419
+
+[30]
+name=Lara Moonen
+email=lararosalinda@live.nl
+mobile=+31619157145
+
+[31]
+name=Linda Otten
+email=lindaotten1978@yahoo.com,linda1@multicards.com
+phone=+31408448911
+mobile=+31647004063
+
+[32]
+name=Linda Pezik Pajoow
+email=linda.grant@live.nl
+mobile=+31610432100
+
+[33]
+name=Lotte Wouters
+address=heuvelstraat 12
+mobile=+31641018390
+
+[34]
+name=Malika el Khayati
+email=maliekie@hotmail.com
+address=Irenestraat 17
+city=Schaijk
+mobile=+316526442211
+notes=8 september 1975
+
+[35]
+name=Marcherry Soemanta
+email=wowo_pushi79@hotmail.com
+city=Zwolle
+mobile=+31645197907
+url=https://www.facebook.com/profile.php?id=1164845476&ref=ts
+
+[36]
+name=Marieke Dijkman
+email=marieke7dijkman@gmail.com,mariekedijkman@hotmail.com
+mobile=+31618112832
+
+[37]
+name=Marlies Esmijer
+email=indra1982@live.nl
+address=Livingstonestraat 62
+city=Geldrop
+mobile=+31683272361
+
+[38]
+name=Marloes Quekel
+email=witchyadams@hotmail.com
+address=Vondellaan 34
+city=Helmond
+zip=5702 AK
+mobile=+31614107100
+url=https://www.facebook.com/profile.php?id=1500008865&ref=ts
+
+[39]
+name=Melody Sohrabi
+email=melodysohrabi@hotmail.com
+address=Haringvlietstraat 6
+city=Almere
+zip=1316LA
+country=Netherlands
+mobile=+31627125202
+url=http://mel1977.hyves.nl/
+
+[40]
+name=Michiel
+mobile=+31624381531
+
+[41]
+name=Mirjam Hasper
+email=deventermir@live.nl
+address=Lange Zandstraat 16 C
+city=Deventer
+mobile=+31644456380
+
+[42]
+name=Monique
+email=ladymoon_@live.nl
+mobile=+31651232233
+
+[43]
+name=Monique Banen
+email=moniquebanen@hotmail.com
+address=Horizonstraat 84
+city=Brunssum
+phone=+31458795114
+mobile=+31614835537
+url=http://nikibanen.hyves.nl/
+
+[44]
+name=Nadine Koo
+email=kooarabians@gmail.com
+mobile=+31641467772
+
+[45]
+name=Natasja Chiafele
+email=natasjachiafele@hotmail.com
+mobile=+32485146808
+url=https://www.facebook.com/profile.php?id=100000021452981
+
+[46]
+name=Nicole Appelmans
+email=nikki_sparkle@hotmail.com
+phone=+31475851280
+mobile=+31623236094
+
+[47]
+name=Nicole Op het Veld
+email=nickyinthesun@hotmail.com
+mobile=+31616115567
+nick=Nicky
+
+[48]
+name=Nicole van de Vijver
+email=nicoleray@hotmail.com
+mobile=+31624288437
+nick=Nikki
+
+[49]
+name=Phonsap Yeeram Phon
+phone=+31402364608
+
+[50]
+name=Rachel Pinxt
+email=r.m.pinxt@gmail.com
+address=Ir. Lelystraat 52
+city=Heerlen
+phone=+31457514002
+mobile=+31622950603
+
+[51]
+name=Sabine Tholen
+email=sweetangel_sabine@hotmail.com
+address=Jozef Habetsstraat 15
+city=Sittard
+zip=6136 JX
+mobile=+31652593408
+url=http://angeleye1982.hyves.nl/
+
+[52]
+name=Sandra Bloos
+email=sandrabloos13@hotmail.com
+phone=+31788439628
+mobile=+31651301137
+url=sandrabl26.hyves.nl
+
+[53]
+name=Sandra Van Esser
+email=sweetthing1973@hotmail.com
+mobile=+32495698791
+
+[54]
+name=Sandra Weiss
+email=sahararose23@yahoo.co.uk
+address=De Waag 87
+city=Raalte
+mobile=+31610291391
+
+[55]
+name=Sandra Wissink
+email=sandradb@home.nl
+address=Schipleidelaan 23
+city=Oldenzaal
+zip=7576PC
+phone=+31541536939
+mobile=+31630081962
+
+[56]
+name=Sara HÄndgen
+email=its_me_sara32@yahoo.com
+mobile=+4916097721928
+
+[57]
+name=Saskia Griffith
+email=saskiagriffith7@hotmail.com
+mobile=+59995660100
+
+[58]
+name=Shakira van Wieringen
+email=shakira_vw@hotmail.com,shakiras@hotmail.com,s.van.wieringen@onsneteindhoven.nl,tylermehilal@gmail.com,svwierin@its.jnj.com
+address=Admetuslaan 30
+city=Eindhoven
+zip=5631 CE
+country=Netherlands
+mobile=+31653899385
+url=http://shakirarosa.hyves.nl
+
+[59]
+name=Sindy Vranken
+email=sindy_vranken@hotmail.com
+mobile=+32486184124
+
+[60]
+name=Sonja Hoskin
+email=sonjahoskin@gmail.com
+mobile=+38670245925
+
+[61]
+name=Suleika Lotten
+email=katjang26@hotmail.com
+address=Rubensstraat 40
+city=Venlo
+zip=5914TR
+phone=+31778505220
+mobile=+31628578514
+url=http://dushi26.hyves.nl/
+
+[62]
+name=Tabitha Louws
+email=tlouws@hotmail.com
+
+[63]
+name=Tamara
+email=tammie2121@hotmail.com
+mobile=+31684112659
+
+[64]
+name=Tamara van Loosbroek
+email=blondebadgirl@gmail.com
+address=Van Boendalestraat 9
+city=Den Bosch
+mobile=+31648161975
+
+[65]
+name=Tanja Bijsterbosch
+email=tanjabijsterbosch@live.nl
+mobile=+31648551853
+
+[66]
+name=Theodor Garvalov
+email=t_garvalov@yahoo.com
+mobile=+359888852313
+url=facebook.com/theodor.garvalov
+notes=nub mage
+
+[67]
+name=Zenja Schuffelers
+email=zenjaschuffelers@hotmail.com
+phone=+31434093373
+mobile=+31611471344
+url=http://zen25.hyves.nl
+
+[68]
+name=Wendy Willemsen
+email=wejoma@hotmail.com
+address=Zonnedauwhof 48
+city=Roermond
+zip=6043KE
+phone=+31475326227
+mobile=+31627478690
+
+[69]
+name=Liza
+email=missartagain@hotmail.com
+mobile=+31617738542
+
