@@ -1,6 +1,7 @@
 gtk2
 prboom
 libfdt
+python-augeas
 ORBit2
 boost-system
 alsa-tools-firmware
@@ -113,7 +114,6 @@ ghc-containers
 khmeros-base-fonts
 python-zeitgeist
 kernel-devel
-xorg-x11-server-Xorg
 calibre
 libmowgli
 avahi-glib
@@ -180,11 +180,11 @@ xorg-x11-drv-ati
 xorg-x11-drv-r128
 mpdscribble
 dejavu-fonts-common
+samba-winbind
 vorbis-tools
 ptlib
 cairo-gobject-devel
 libgweather
-libwbclient
 speex-devel
 Zim
 geoclue
@@ -231,7 +231,6 @@ libffado
 vo-amrwbenc
 pidgin-guifications
 libkkc-common
-xorg-x11-server-common
 ghc-unix
 linux-atm-libs
 polkit-qt
@@ -289,7 +288,6 @@ lzo-minilzo
 perl-NKF
 gdm
 PackageKit-gtk3-module
-samba-libs
 ghc-hslogger
 selinux-policy-targeted
 libverto
@@ -354,7 +352,6 @@ tbb
 eekboard
 lohit-malayalam-fonts
 less
-perl-Date-Manip
 cclive
 libcollection
 slv2
@@ -366,6 +363,7 @@ aspell-en
 iwl3160-firmware
 sssd-ldap
 im-chooser-common
+samba-common
 fedora-upgrade
 keyutils-libs-devel
 gnu-free-serif-fonts
@@ -375,6 +373,7 @@ xorg-x11-drv-modesetting
 ghc-Cabal
 libpcap
 telepathy-filesystem
+pygtk2-devel
 xz
 nmap
 evince-nautilus
@@ -386,7 +385,6 @@ libmbim
 larabie-fonts-common
 passwdqc
 libbs2b
-pygtk2
 thai-scalable-fonts-common
 libdvdnav
 ntpdate
@@ -537,7 +535,6 @@ parted
 lua-expat
 kactivities-libs
 babl
-pygtk2-devel
 brlapi
 hotot-common
 libmp4v2
@@ -552,6 +549,7 @@ gutenprint
 yumex
 sssd-ipa
 libXi-devel
+pam
 freeimage
 iwl135-firmware
 gstreamer-plugins-espeak
@@ -741,11 +739,13 @@ xine-lib-extras
 iwl6000g2a-firmware
 lockdev
 transmission-gtk
+xorg-x11-server-Xephyr
 libXdamage-devel
 sssd-ad
 plymouth-system-theme
 kde-runtime
 rubygem-psych
+bind-utilsP2.fc20.x86_64
 wine-courier-fonts
 python-nss
 mesa-libEGL-devel
@@ -759,6 +759,7 @@ gtk3-devel
 ghc-binary
 python-ethtool
 artwiz-aleczapka-fonts-common
+perl-Date-Manip
 mc
 wine-core
 libass
@@ -860,7 +861,6 @@ libgcc
 libhangul
 c-ares
 ffmpeg-libs
-python-augeas
 paps
 opencv
 perl-XML-RegExp
@@ -903,7 +903,6 @@ xmonad-core
 keyutils-libs
 gstreamer-plugins-base
 akmod-nvidia
-pam
 polkit-pkla-compat
 cairo-gobject
 java
@@ -942,6 +941,7 @@ leveldb
 pango
 nss-sysinit
 fontpackages-filesystem
+bind-libs-liteP2.fc20.x86_64
 pcre
 python-markupsafe
 ghc-template-haskell
@@ -954,6 +954,7 @@ libpng12
 imlib2
 abrt-gui-libs
 openjpeg-libs
+pam
 libzip
 tcl
 libglade2
@@ -968,7 +969,6 @@ boost-iostreams
 pcsc-lite-ccid
 at-spi2-core
 wine-systemd
-pam-devel
 gl-manpages
 media-player-info
 libmetalink
@@ -1068,7 +1068,6 @@ pulseaudio-module-x11
 pulseaudio-utils
 libXt-devel
 libxml2
-perl-Locale-Maketext
 audit-libs
 mesa-filesystem
 prelink
@@ -1120,6 +1119,7 @@ mesa-libGLU-devel
 gstreamer1-plugins-base
 librsvg2
 liberation-fonts-common
+samba-winbind-modules
 libspiro
 fontconfig-infinality
 firewall-applet
@@ -1233,7 +1233,6 @@ libreport-filesystem
 baloo-file
 ghc-process-devel
 ghc-gio
-samba-common
 unzip
 sysprof
 perl-Class-ISA
@@ -1302,7 +1301,6 @@ libXfixes-devel
 itext-core
 opus
 kde-runtime-flags
-samba-winbind
 imsettings
 sssd-proxy
 libXft
@@ -1317,6 +1315,7 @@ rpmfusion-nonfree-release
 smp_utils
 mpc
 filesystem
+pygtk2-doc
 pangomm
 libreport-gtk
 ghc-hoopl
@@ -1329,7 +1328,6 @@ mate-control-center-filesystem
 urlview
 xmms-faad2
 nhn-nanum-fonts-common
-pygtk2-libglade
 opencv-core
 json-c
 boost-wave
@@ -1419,7 +1417,6 @@ gdm-libs
 irssi
 rxvt-unicode
 selinux-policy-doc
-libsmbclient
 gnokii
 ghc-template-haskell-devel
 kde-l10n
@@ -1470,11 +1467,9 @@ gdk-pixbuf2
 libdiscid
 gstreamer-devel
 cryptsetup-libs
-pygtk2-codegen
 libgpg-error
 deja-dup
 lohit-devanagari-fonts
-xorg-x11-server-Xephyr
 python-django-tagging
 mpv
 freerdp-plugins
@@ -1488,6 +1483,7 @@ syslinux
 iwl4965-firmware
 rubypick
 coolkey
+libwbclient
 libthai
 LibRaw
 iwl100-firmware
@@ -1497,6 +1493,7 @@ xorg-x11-drv-vesa
 ghc-hpc
 libewf
 colord
+samba-client
 gdbm
 libdmapsharing
 lcms2
@@ -1665,6 +1662,7 @@ perl-Thread-Queue
 pciutils-devel
 rubygem-json
 libXrandr-devel
+perl-Locale-Maketext
 sssd-krb5
 iwl2030-firmware
 libselinux-devel
@@ -1676,6 +1674,7 @@ hplip-libs
 python-pyblock
 docbook-style-xsl
 valgrind
+pam-devel
 libpaper
 libssh
 nss-mdns
@@ -1758,7 +1757,6 @@ ghc-extensible-exceptions
 teeworlds
 libmcpp
 goffice08
-bind-libs-liteP2.fc20.x86_64
 cscope
 speex
 librepository
@@ -1818,7 +1816,6 @@ libXinerama
 elfutils-libelf
 mesa-dri-drivers
 pango
-pygtk2-doc
 libX11
 httpd-tools
 gnome-chess
@@ -1846,10 +1843,11 @@ mousetweaks
 iwl6050-firmware
 libsss_nss_idmap
 perl-Digest-MD5
-samba-winbind-modules
+xorg-x11-server-common
 kde-runtime-libs
 python3-pytz
 gnu-free-mono-fonts
+bind-licenseP2.fc20.noarch
 NetworkManager-glib
 libchromaprint
 pcre-devel
@@ -1864,6 +1862,7 @@ attica
 gnutls
 farstream
 mozilla-filesystem
+tcpdump
 telepathy-mission-control
 libseccomp
 pcre
@@ -1891,7 +1890,6 @@ wine-small-fonts
 protobuf-compiler
 python-mako
 gettext-libs
-xorg-x11-server-devel
 wavpack
 qt-mobility-feedback
 google-droid-serif-fonts
@@ -2040,6 +2038,7 @@ evince-libs
 ibus-anthy
 libjpeg-turbo-utils
 procps-ng
+libsmbclient
 xorg-x11-drv-mga
 adobe-release-x86_64
 foomatic
@@ -2224,7 +2223,6 @@ rubygem-io-console
 lzo
 glx-utils
 imsettings-gsettings
-samba-winbind-clients
 rdesktop
 libreswan
 gnutls-utils
@@ -2242,6 +2240,7 @@ subversion-libs
 smp_utils-libs
 infinality-repo
 setup
+pygtk2-codegen
 lm_sensors
 nss-softokn-devel
 libofa
@@ -2268,7 +2267,6 @@ libsepol
 quazip
 wine-marlett-fonts
 qt-mobility-sensors
-tcpdump
 hunspell-nl
 udisks2
 openssl-devel
@@ -2323,7 +2321,6 @@ perl-Bit-Vector
 redhat-lsb-cxx
 libgnome-keyring
 quvi
-bind-licenseP2.fc20.noarch
 libprojectM
 grubby
 libiptcdata
@@ -2422,6 +2419,7 @@ gnome-classic-session
 libcdio-paranoia+0.90+1-1.fc20.x86_64
 wget
 lxappearance
+samba-libs
 wine-capi
 numpy
 larabie-straight-fonts
@@ -2549,7 +2547,6 @@ shotwell
 python-hawkey
 ffmpeg
 perl-Getopt-ArgvFile
-bind-utilsP2.fc20.x86_64
 gnome-system-log
 gnome-python2-gconf
 python-distutils-extra
@@ -2614,7 +2611,9 @@ perl-Mozilla-CA
 un-core-dotum-fonts
 libspectre
 sssd-common-pac
+xorg-x11-server-devel
 elfutils-libs
+samba-winbind-clients
 dbus-libs
 ConsoleKit-libs
 iwl5150-firmware
@@ -2629,6 +2628,7 @@ pango-devel
 SDL_image
 grilo
 gnome-user-docs
+pygtk2-libglade
 perl-YAML-Syck
 pnglite
 kde-filesystem
@@ -2693,7 +2693,6 @@ acpi
 libxfce4util
 libsigc++20-devel
 wqy-zenhei-fonts
-pam
 mono-winfx
 OpenEXR-libs
 cyrus-sasl-md5
@@ -2808,6 +2807,7 @@ libgusb
 portaudio
 perl-Digest
 sssd-client
+xorg-x11-server-Xorg
 hesiod-devel
 ruby-irb
 liborcus
@@ -2816,6 +2816,7 @@ wireshark-gnome
 iwl3945-firmware
 python3-babel
 libXxf86vm-devel
+pygtk2
 libserf
 colord-libs
 dmraid
@@ -2883,7 +2884,6 @@ pygobject3-base
 itstool
 xorg-x11-drv-cirrus
 libXdmcp
-samba-client
 gcc-gfortran
 xorg-x11-server-utils
 libogg-devel
@@ -2917,6 +2917,7 @@ lxsession
 device-mapper-event-libs
 libXcomposite-devel
 ibus-anthy-python
+bind-libsP2.fc20.x86_64
 libetonyek
 cairo
 libnice-gstreamer1
@@ -2960,7 +2961,6 @@ empathy
 libwebkit2gtk
 avalon-framework
 libXaw
-bind-libsP2.fc20.x86_64
 aqbanking
 hwdata
 libreport-fedora
